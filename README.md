@@ -15,7 +15,7 @@
 
 
 ## Installation
-```shell
+```shell 
 npm i mint-ui -S
 
 # for Vue 1.x
